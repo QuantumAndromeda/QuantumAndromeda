@@ -1,9 +1,4 @@
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/117300099/217121756-9847a207-e7cb-48c0-9b1e-d9bbcfcc182b.gif">
-      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/117300099/217121827-3ddd1b3d-05c2-4b12-a874-12e749adf6fd.gif">
-      <img src="https://user-images.githubusercontent.com/117300099/217121793-84d1377f-dd00-4262-bdc3-7f40b1c62e59.gif"/>
-    </picture>
      <h1>:blue_heart:Demelza:blue_heart:</h1>
       <h2>~About me~</h2>
       <p>I'm a Computing and Software Engineering Student. I'm trying to learn and improve as much as possible in any field of programming. What I like the most is the layout of web pages and databases.</p>
